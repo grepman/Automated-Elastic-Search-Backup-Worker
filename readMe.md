@@ -16,7 +16,9 @@ What works better than having an Automated Worker ready for You!
 > So to run this just write this command
 > Give the file backup.sh Execution permission and run
 > You can 
->
+
 > $ npm install elasticdump
+
 > $ chmod 7777 ./backup.sh
+
 > $ ./backup.sh
